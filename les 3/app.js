@@ -21,7 +21,7 @@ class App
             title.style.backgroundColor = "#DE3163";
         }
         if (randomGetal >= 0.2 && randomGetal <= 0.6)
-        {
+        {   
             title.style.backgroundColor = "#9FE2BF";
         }
     }
